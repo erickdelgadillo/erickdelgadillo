@@ -24,7 +24,13 @@ My academic journey began in Mexico in 2005 with technical training in aquacultu
 
 - **Costas-Selas C. et al. (2024).** Linking the impact of bacteria on phytoplankton growth with microbial community composition and co-occurrence patterns. *Marine Environmental Research*, **193**, 106262. [DOI: 10.1016/j.marenvres.2023.106262](https://doi.org/10.1016/j.marenvres.2023.106262)
 
+- **Juárez O.E. et al. (2024).** Transcriptome characterization of *Pocillopora grandis* transplanted into reefs with different health conditions: potential stress indicators at the holobiont level. *Latin American Journal of Aquatic Research*, **52**(1), 119–149. [DOI: 10.3856/vol52-issue1-fulltext-2991](https://doi.org/10.3856/vol52-issue1-fulltext-2991)
+
 - **Justel-Díez M. et al. (2023).** Inputs of seabird guano alter microbial growth, community composition and the phytoplankton-bacterial interactions in a coastal system. *Environmental Microbiology*, **25**(6), 1155–1173. [DOI: 10.1111/1462-2920.16349](https://doi.org/10.1111/1462-2920.16349)
+
+- **Delgadillo-Nuño M.A. et al. (2023).** Two biomarkers of gene expression plasticity in *Pocillopora* corals from the Carrizales reef, Mexican Tropical Pacific. *Hidrobiológica*, **33**(2), 115–126. [DOI: 10.24275/aohh9236](https://doi.org/10.24275/aohh9236)
+
+- **Delgadillo-Nuño M.A. et al. (2020).** Gene expression plasticity in *Pocillopora* corals from 2 locations on the Carrizales Reef, Pacific coast of Mexico. *Ciencias Marinas*, **46**(2), 89–100. [DOI: 10.7773/cm.v46i2.3062](https://doi.org/10.7773/cm.v46i2.3062)
 
 
 </details>
