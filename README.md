@@ -38,27 +38,32 @@ My academic journey began in Mexico in 2005 with technical training in aquacultu
 <details>
 <summary><strong>🧰 Technical toolkit</strong></summary>
 
-#### Languages and workflows
-R · MATLAB · Bash · Python · Nextflow · nf-core
+### 🔬 Reproducible research
 
-#### Infrastructure
+#### 🌊 coastal-upwelling-bacterioplankton
 
-Conda · Mamba · Docker · Ansible · GitHub Actions · Linux
+Reproducible reconstruction of the computational analyses underlying a published study on bacterioplankton functional specialization across coastal upwelling conditions.
 
-#### Bioinformatics
+**MATLAB · R · Microbial ecology · Community analysis · Scientific visualization**
 
-FastQC · MultiQC · Bowtie2 · BWA · SAMtools · SPAdes · MEGAHIT ·
-Trinity · Kraken2 · DADA2 · MetaPhlAn · BLAST · HMMER
+📄 *Associated with a published first-author study in Frontiers in Marine Science.*
 
-#### Research methods
+#### 🦠 marine-p-deficiency-metat
 
-RNA-seq · Metatranscriptomics · Metagenomics · Amplicon sequencing ·
-Differential expression · Multivariate statistics · Scientific visualization
+Reproducible reconstruction and refactoring of the metatranscriptomic analyses underlying a published study on phytoplankton and bacterial responses to phosphorus deficiency.
 
-</details>
+**R · edgeR · Metatranscriptomics · Bioconductor · Multivariate statistics**
 
-<details>
-<summary><strong>🚀 Featured projects</strong></summary>
+📄 *Associated with a published first-author study in ISME Communications.*
+
+#### 💊 antibiotics-perturbations
+
+Reproducible analysis of antibiotic perturbation experiments investigating bacteria–phytoplankton interactions in natural marine microbial communities.
+
+**R · Microbial ecology · Experimental data · Statistical analysis · Scientific visualization**
+
+📝 *Associated manuscript in preparation.*
+
 
 ### 🔧 Research infrastructure
 
@@ -67,23 +72,6 @@ Differential expression · Multivariate statistics · Scientific visualization
 Automated provisioning of my reproducible bioinformatics infrastructure from clean Ubuntu installations using modular Ansible roles.
 
 **Ansible · Linux · Docker · Conda · Nextflow**
-
-
-### 🔬 Reproducible research
-
-#### 🦠 marine-p-deficiency-metat
-
-Reproducible reconstruction and refactoring of the metatranscriptomic analyses underlying a published study on phytoplankton and bacterial responses to phosphorus deficiency.
-
-**R · edgeR · Metatranscriptomics · Bioconductor · Multivariate statistics**
-
-#### 💊 antibiotics-perturbations
-
-Reproducible analysis of antibiotic perturbation experiments investigating bacteria–phytoplankton interactions in natural marine microbial communities.
-
-**R · Microbial ecology · Experimental data · Statistical analysis · Scientific visualization**
-
-*Associated manuscript in preparation.*
 
 
 ### 🧪 Learning projects
@@ -96,8 +84,16 @@ A learning project for developing a modular human germline variant-calling workf
 
 #### 🐦 Huitzilin
 
-A learning and experimentation project for developing practical skills in [AQUÍ PONEMOS EXACTAMENTE LO QUE HACE HUITZILIN].
+A learning project for exploring Python development and the foundations of information retrieval, combining lexical and semantic search over structured and vector-based data.
 
-**[stack de Huitzilin]**
+**Python · Embeddings · FAISS · SQLite · Semantic retrieval · Lexical retrieval**
+
+### 🎮 Hobby projects
+
+#### 👩‍🔬 science-valley
+
+A pixel-art game project inspired by scientific research and laboratory life, developed as a creative programming hobby.
+
+**Godot · GDScript · Pixel art · Game development**
 
 </details>
