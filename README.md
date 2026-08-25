@@ -60,63 +60,60 @@ Differential expression · Multivariate statistics · Scientific visualization
   
 <details>
 <summary><strong>🚀 Featured projects</strong></summary>
-  
+
 ### 🔬 Reproducible research
 
-#### 🌊 coastal-upwelling-bacterioplankton
-
+#### coastal-upwelling-bacterioplankton
 Reproducible reconstruction of the computational analyses underlying a published study on bacterioplankton functional specialization across coastal upwelling conditions.
 
-**MATLAB · R · Microbial ecology · Community analysis · Scientific visualization**
+`MATLAB` `R` `Microbial ecology` `Community analysis`
 
-📄 *Associated with a published first-author study in Frontiers in Marine Science.*
+📄 *Frontiers in Marine Science — first-author study*
 
-#### 🦠 marine-p-deficiency-metat
-
+#### marine-p-deficiency-metat
 Reproducible reconstruction and refactoring of the metatranscriptomic analyses underlying a published study on phytoplankton and bacterial responses to phosphorus deficiency.
 
-**R · edgeR · Metatranscriptomics · Bioconductor · Multivariate statistics**
+`R` `edgeR` `Metatranscriptomics` `Bioconductor`
 
-📄 *Associated with a published first-author study in ISME Communications.*
+📄 *ISME Communications — first-author study*
 
-#### 💊 antibiotics-perturbations
-
+#### antibiotics-perturbations
 Reproducible analysis of antibiotic perturbation experiments investigating bacteria–phytoplankton interactions in natural marine microbial communities.
 
-**R · Microbial ecology · Experimental data · Statistical analysis · Scientific visualization**
+`R` `Microbial ecology` `Statistics` `Scientific visualization`
 
-📝 *Associated manuscript in preparation.*
+📝 *Manuscript in preparation*
 
+---
 
 ### 🔧 Research infrastructure
 
-#### 🐆 Ocelotl
-
+#### Ocelotl
 Automated provisioning of my reproducible bioinformatics infrastructure from clean Ubuntu installations using modular Ansible roles.
 
-**Ansible · Linux · Docker · Conda · Nextflow**
+`Ansible` `Linux` `Docker` `Conda` `Nextflow`
 
+---
 
 ### 🧪 Learning projects
 
-#### 🧬 nf-human-variants
+#### nf-human-variants
+Modular human germline variant-calling workflow developed while expanding my experience with Nextflow DSL2 and modern NGS workflow development.
 
-A learning project for developing a modular human germline variant-calling workflow while expanding my experience with Nextflow DSL2 and modern NGS workflow development.
+`Nextflow` `Docker` `BWA-MEM2` `SAMtools` `GATK`
 
-**Nextflow · Docker · BWA-MEM2 · SAMtools · GATK**
+#### Huitzilin
+Exploration of Python development and information retrieval through lexical and semantic search over structured and vector-based data.
 
-#### 🐦 Huitzilin
+`Python` `Embeddings` `FAISS` `SQLite` `Semantic retrieval`
 
-A learning project for exploring Python development and the foundations of information retrieval, combining lexical and semantic search over structured and vector-based data.
+---
 
-**Python · Embeddings · FAISS · SQLite · Semantic retrieval · Lexical retrieval**
+### 🎮 Hobby
 
-### 🎮 Hobby projects
+#### science-valley
+Pixel-art game inspired by scientific research and laboratory life.
 
-#### 👩‍🔬 science-valley
-
-A pixel-art game project inspired by scientific research and laboratory life, developed as a creative programming hobby.
-
-**Godot · GDScript · Pixel art · Game development**
+`Godot` `GDScript` `Pixel art`
 
 </details>
