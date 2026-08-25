@@ -1,12 +1,10 @@
-# I'm Erick Delgadillo-Nuño
+# I'm Erick Delgadillo-Nuño [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
 
 **Oceanographer · Computational Biologist · Molecular Biologist**
 
 I hold a PhD in Marine Science, Technology and Management from the University of Vigo and study marine microbial communities 
 through reproducible computational workflows that integrate oceanography, molecular biology, microbial ecology, and 
 metatranscriptomics.
-
-[ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
 
 <details>
 <summary><strong>📚 Publications</strong></summary>
