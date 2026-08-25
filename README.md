@@ -9,9 +9,22 @@ My academic journey began in Mexico in 2005 with technical training in aquacultu
 <details>
 <summary><strong>📚 Publications</strong></summary>
 
-- **Delgadillo-Nuño E. et al. (2024).** Coastal upwelling systems as dynamic mosaics of bacterioplankton functional specialization. *Frontiers in Marine Science*, **13**, 1886620. [DOI: 10.3389/fmars.2026.1886620](https://doi.org/10.3389/fmars.2026.1886620)
+### First-author publications
 
 - **Delgadillo-Nuño E. et al. (2026).** Dealing with phosphorus deficiency: contrasting strategies in marine phytoplankton and bacteria. *ISME Communications*, **6**(1), ycag035. [DOI: 10.1093/ismeco/ycag035](https://doi.org/10.1093/ismeco/ycag035)
+
+- **Delgadillo-Nuño E. et al. (2023).** Coastal upwelling systems as dynamic mosaics of bacterioplankton functional specialization. *Frontiers in Marine Science*, **10**, 1259783. [DOI: 10.3389/fmars.2023.1259783](https://doi.org/10.3389/fmars.2023.1259783)
+
+
+### Selected collaborative publications
+
+- **Teira E. et al. (2025).** Contrasting diversity and temporal patterns in leaf and root microbiome of two nearby temperate *Zostera marina* meadows. *Environmental Microbiome*, **20**, 98. [DOI: 10.1186/s40793-025-00760-z](https://doi.org/10.1186/s40793-025-00760-z)
+
+- **Justel-Díez M. et al. (2025).** Effect of bacteria on the phytoplankton response to P-replete and P-deplete riverine water inputs. *Marine Environmental Research*, **211**, 107400. [DOI: 10.1016/j.marenvres.2025.107400](https://doi.org/10.1016/j.marenvres.2025.107400)
+
+- **Costas-Selas C. et al. (2024).** Linking the impact of bacteria on phytoplankton growth with microbial community composition and co-occurrence patterns. *Marine Environmental Research*, **193**, 106262. [DOI: 10.1016/j.marenvres.2023.106262](https://doi.org/10.1016/j.marenvres.2023.106262)
+
+- **Justel-Díez M. et al. (2023).** Inputs of seabird guano alter microbial growth, community composition and the phytoplankton-bacterial interactions in a coastal system. *Environmental Microbiology*, **25**(6), 1155–1173. [DOI: 10.1111/1462-2920.16349](https://doi.org/10.1111/1462-2920.16349)
 
 
 </details>
