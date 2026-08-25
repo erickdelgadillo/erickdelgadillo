@@ -2,6 +2,7 @@
 
 **Oceanographer · Computational Biologist · Molecular Biologist**
  [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
+🌊 Research background
 My academic journey began in Mexico, where I earned a bachelor’s degree in Oceanology from the University of Colima and a master’s degree in Life Sciences, specializing in Marine Biotechnology, from CICESE. I later completed a PhD in Marine Science, Technology and Management at the University of Vigo. My research combines oceanography, molecular biology, microbial ecology, and metatranscriptomics through reproducible computational workflows.
 
 <details>
@@ -11,16 +12,6 @@ My academic journey began in Mexico, where I earned a bachelor’s degree in Oce
 
 - **Delgadillo-Nuño E. et al. (2026).** Dealing with phosphorus deficiency: contrasting strategies in marine phytoplankton and bacteria. *ISME Communications*, **6**(1), ycag035. [DOI: 10.1093/ismeco/ycag035](https://doi.org/10.1093/ismeco/ycag035)
 
-
-</details>
-
-<details>
-<summary><strong>🌊 Research background</strong></summary>
-
-My background includes molecular biology, university teaching,
-oceanographic fieldwork, and scientific diving. I have worked with marine
-bacteria, phytoplankton, corals, anemones, fish, and invertebrates—from
-sampling and nucleic-acid extraction to sequencing and computational analysis.
 
 </details>
 
