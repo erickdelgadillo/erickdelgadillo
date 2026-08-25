@@ -1,4 +1,4 @@
-### I'm 🌊 Oceanographer · 💻 Computational Biologist · 🧬 Molecular Biologist
+### I'm 🌊 Oceanographer · 🧬 Molecular Biologist · 💻 Computational Biologist
 
  [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
  
