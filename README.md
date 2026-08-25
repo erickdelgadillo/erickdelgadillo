@@ -43,12 +43,12 @@ R · MATLAB · Bash · Python · Nextflow · nf-core
 
 #### Infrastructure
 
-Conda · Mamba · Docker · Apptainer · Ansible · GitHub Actions · Linux
+Conda · Mamba · Docker · Ansible · GitHub Actions · Linux
 
 #### Bioinformatics
 
 FastQC · MultiQC · Bowtie2 · BWA · SAMtools · SPAdes · MEGAHIT ·
-Trinity · Kraken2 · MetaPhlAn · BLAST · HMMER
+Trinity · Kraken2 · DADA2 · MetaPhlAn · BLAST · HMMER
 
 #### Research methods
 
