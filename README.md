@@ -1,4 +1,5 @@
-### I'm 🌊 Oceanographer · 🧬 Molecular Biologist · 💻 Computational Biologist
+## I'm 🌊 Oceanographer · 🧬 Molecular Biologist · 💻 Computational Biologist
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9434--0211-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9434-0211)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Q4wYPwwAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
