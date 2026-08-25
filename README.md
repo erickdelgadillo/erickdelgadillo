@@ -8,7 +8,7 @@ My academic journey began in Mexico in 2005 with technical training in aquacultu
 <details>
 <summary><strong>📚 Publications</strong></summary>
 
-- **Delgadillo-Nuño E. et al. (2024).** Correction: Coastal upwelling systems as dynamic mosaics of bacterioplankton functional specialization. *Frontiers in Marine Science*, **13**, 1886620. [DOI: 10.3389/fmars.2026.1886620](https://doi.org/10.3389/fmars.2026.1886620)
+- **Delgadillo-Nuño E. et al. (2024).** Coastal upwelling systems as dynamic mosaics of bacterioplankton functional specialization. *Frontiers in Marine Science*, **13**, 1886620. [DOI: 10.3389/fmars.2026.1886620](https://doi.org/10.3389/fmars.2026.1886620)
 
 - **Delgadillo-Nuño E. et al. (2026).** Dealing with phosphorus deficiency: contrasting strategies in marine phytoplankton and bacteria. *ISME Communications*, **6**(1), ycag035. [DOI: 10.1093/ismeco/ycag035](https://doi.org/10.1093/ismeco/ycag035)
 
