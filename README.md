@@ -1,11 +1,9 @@
 ### I'm Erick Delgadillo-Nuño
 
-**Oceanographer · Computational Biologist · Molecular Biologist**
+**🌊 Oceanographer · 💻 Computational Biologist · 🧬 Molecular Biologist**
 
  [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
  
-#### 🌊 Research background
-
 My academic journey began in Mexico, where I earned a bachelor’s degree in Oceanology from the University of Colima and a master’s degree in Life Sciences, specializing in Marine Biotechnology, from CICESE. I later completed a PhD in Marine Science, Technology and Management at the University of Vigo. My research combines oceanography, molecular biology, microbial ecology, and metatranscriptomics through reproducible computational workflows.
 
 <details>
