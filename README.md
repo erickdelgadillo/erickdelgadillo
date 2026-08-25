@@ -1,6 +1,6 @@
 ### I'm 🌊 Oceanographer · 🧬 Molecular Biologist · 💻 Computational Biologist
 
-My academic journey began in Mexico, where I earned a bachelor’s degree in Oceanology from the University of Colima and a master’s degree in Life Sciences, specializing in Marine Biotechnology, from CICESE. I later completed a PhD in Marine Science, Technology and Management at the University of Vigo. My research combines oceanography, molecular biology, microbial ecology, and metatranscriptomics through reproducible computational workflows.
+My academic journey began in Mexico in 2005 with technical training in aquaculture. I later earned a bachelor’s degree in Oceanology from the University of Colima and a master’s degree in Life Sciences, specializing in Marine Biotechnology, from CICESE, before completing a PhD in Marine Science, Technology and Management at the University of Vigo. My research integrates oceanography, molecular biology, microbial ecology, and metatranscriptomics through reproducible computational workflows.
 
 🔬 [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
 
