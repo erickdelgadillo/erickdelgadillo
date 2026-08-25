@@ -1,6 +1,4 @@
-### I'm Erick Delgadillo-Nuño
-
-**🌊 Oceanographer · 💻 Computational Biologist · 🧬 Molecular Biologist**
+### I'm 🌊 Oceanographer · 💻 Computational Biologist · 🧬 Molecular Biologist
 
  [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
  
