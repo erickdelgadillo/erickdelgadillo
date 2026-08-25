@@ -8,8 +8,16 @@ reproducible computational workflows that integrate oceanography,
 molecular biology, microbial ecology, and metatranscriptomics.
 
 [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
-· [Coastal upwelling systems as dynamic mosaics of bacterioplankton 
-functional specialization]([#selected-publications](https://doi.org/10.3389/fmars.2026.1886620))
+
+Publications
+
+Delgadillo-Nuño E. et al. (2026). Dealing with phosphorus deficiency: 
+contrasting strategies in marine phytoplankton and bacteria. 
+ISME Communications, 6(1), ycag035. https://doi.org/10.1093/ismeco/ycag035
+
+Delgadillo-Nuño E. et al. (2026). Correction: Coastal upwelling systems as 
+dynamic mosaics of bacterioplankton functional specialization. Frontiers in 
+Marine Science, 13, 1886620. https://doi.org/10.3389/fmars.2026.1886620
 
 <details>
 <summary><strong>🔬 Current research interests</strong></summary>
