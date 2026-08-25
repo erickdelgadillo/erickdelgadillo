@@ -57,3 +57,27 @@ Differential expression · Multivariate statistics · Scientific visualization
 
 </details>
 
+<details>
+<summary><strong>🚀 Featured projects</strong></summary>
+
+### 🧬 nf-human-variants
+Modular Nextflow DSL2 pipeline for reproducible human germline variant calling, from raw sequencing reads to annotated variants.
+
+**Nextflow · Docker · BWA-MEM2 · SAMtools · GATK**
+
+### 🌊 marine-p-deficiency-metat
+Reproducible metatranscriptomic workflow for investigating phytoplankton and bacterial responses to phosphorus deficiency in marine microbial communities.
+
+**R · edgeR · Metatranscriptomics · Bioconductor · Multivariate statistics**
+
+### 🦠 phytoplankton-bacteria-antibiotics
+Reproducible analysis of experimental antibiotic perturbations used to investigate bacteria–phytoplankton interactions in natural marine microbial communities.
+
+**R · Microbial ecology · Experimental data · Statistical analysis · Scientific visualization**
+
+### 🐆 Ocelotl
+Automated provisioning of reproducible bioinformatics workstations from clean Ubuntu installations using modular Ansible roles.
+
+**Ansible · Linux · Docker · Conda · Nextflow**
+
+</details>
