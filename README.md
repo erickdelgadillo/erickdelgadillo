@@ -60,24 +60,44 @@ Differential expression · Multivariate statistics · Scientific visualization
 <details>
 <summary><strong>🚀 Featured projects</strong></summary>
 
-### 🧬 nf-human-variants
-Modular Nextflow DSL2 pipeline for reproducible human germline variant calling, from raw sequencing reads to annotated variants.
+### 🔧 Research infrastructure
 
-**Nextflow · Docker · BWA-MEM2 · SAMtools · GATK**
+#### 🐆 Ocelotl
 
-### 🌊 marine-p-deficiency-metat
-Reproducible metatranscriptomic workflow for investigating phytoplankton and bacterial responses to phosphorus deficiency in marine microbial communities.
+Automated provisioning of my reproducible bioinformatics infrastructure from clean Ubuntu installations using modular Ansible roles.
+
+**Ansible · Linux · Docker · Conda · Nextflow**
+
+
+### 🔬 Reproducible research
+
+#### 🦠 marine-p-deficiency-metat
+
+Reproducible reconstruction and refactoring of the metatranscriptomic analyses underlying a published study on phytoplankton and bacterial responses to phosphorus deficiency.
 
 **R · edgeR · Metatranscriptomics · Bioconductor · Multivariate statistics**
 
-### 🦠 phytoplankton-bacteria-antibiotics
-Reproducible analysis of experimental antibiotic perturbations used to investigate bacteria–phytoplankton interactions in natural marine microbial communities.
+#### 💊 antibiotics-perturbations
+
+Reproducible analysis of antibiotic perturbation experiments investigating bacteria–phytoplankton interactions in natural marine microbial communities.
 
 **R · Microbial ecology · Experimental data · Statistical analysis · Scientific visualization**
 
-### 🐆 Ocelotl
-Automated provisioning of reproducible bioinformatics workstations from clean Ubuntu installations using modular Ansible roles.
+*Associated manuscript in preparation.*
 
-**Ansible · Linux · Docker · Conda · Nextflow**
+
+### 🧪 Learning projects
+
+#### 🧬 nf-human-variants
+
+A learning project for developing a modular human germline variant-calling workflow while expanding my experience with Nextflow DSL2 and modern NGS workflow development.
+
+**Nextflow · Docker · BWA-MEM2 · SAMtools · GATK**
+
+#### 🐦 Huitzilin
+
+A learning and experimentation project for developing practical skills in [AQUÍ PONEMOS EXACTAMENTE LO QUE HACE HUITZILIN].
+
+**[stack de Huitzilin]**
 
 </details>
