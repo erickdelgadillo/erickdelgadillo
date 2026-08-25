@@ -19,20 +19,19 @@ My academic journey began in Mexico in 2005 with technical training in aquacultu
 <details>
 <summary><strong>🧰 Technical toolkit</strong></summary>
 
-### Languages and workflows
-
+#### Languages and workflows
 R · MATLAB · Bash · Python · Nextflow · nf-core
 
-### Infrastructure
+#### Infrastructure
 
 Conda · Mamba · Docker · Apptainer · Ansible · GitHub Actions · Linux
 
-### Bioinformatics
+#### Bioinformatics
 
 FastQC · MultiQC · Bowtie2 · BWA · SAMtools · SPAdes · MEGAHIT ·
 Trinity · Kraken2 · MetaPhlAn · BLAST · HMMER
 
-### Research methods
+#### Research methods
 
 RNA-seq · Metatranscriptomics · Metagenomics · Amplicon sequencing ·
 Differential expression · Multivariate statistics · Scientific visualization
