@@ -12,9 +12,10 @@ molecular biology, microbial ecology, and metatranscriptomics.
 <details>
 <summary><strong>📚 Publications</strong></summary>
 
+- **Delgadillo-Nuño E. et al. (2024).** Correction: Coastal upwelling systems as dynamic mosaics of bacterioplankton functional specialization. *Frontiers in Marine Science*, **13**, 1886620. [DOI: 10.3389/fmars.2026.1886620](https://doi.org/10.3389/fmars.2026.1886620)
+
 - **Delgadillo-Nuño E. et al. (2026).** Dealing with phosphorus deficiency: contrasting strategies in marine phytoplankton and bacteria. *ISME Communications*, **6**(1), ycag035. [DOI: 10.1093/ismeco/ycag035](https://doi.org/10.1093/ismeco/ycag035)
 
-- **Delgadillo-Nuño E. et al. (2026).** Correction: Coastal upwelling systems as dynamic mosaics of bacterioplankton functional specialization. *Frontiers in Marine Science*, **13**, 1886620. [DOI: 10.3389/fmars.2026.1886620](https://doi.org/10.3389/fmars.2026.1886620)
 
 </details>
 
@@ -33,7 +34,7 @@ molecular biology, microbial ecology, and metatranscriptomics.
 
 ### Languages and workflows
 
-R · Python · MATLAB · Bash · Nextflow · nf-core · GDScript
+R · MATLAB · Bash · Python · Nextflow · nf-core
 
 ### Infrastructure
 
@@ -51,12 +52,6 @@ Differential expression · Multivariate statistics · Scientific visualization
 
 </details>
 
-<details>
-<summary><strong>📚 Selected publications</strong></summary>
-
-<!-- Aquí conservas las tres publicaciones actuales -->
-
-</details>
 
 <details>
 <summary><strong>🌊 Research background</strong></summary>
