@@ -8,9 +8,8 @@ reproducible computational workflows that integrate oceanography,
 molecular biology, microbial ecology, and metatranscriptomics.
 
 [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
-
-Publications
-
+<details>
+<Publications>
 Delgadillo-Nuño E. et al. (2026). Dealing with phosphorus deficiency: 
 contrasting strategies in marine phytoplankton and bacteria. 
 ISME Communications, 6(1), ycag035. https://doi.org/10.1093/ismeco/ycag035
