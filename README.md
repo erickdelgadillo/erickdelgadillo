@@ -5,9 +5,6 @@
 
 My academic journey began in Mexico in 2005 with technical training in aquaculture. I later earned a bachelor’s degree in Oceanology from the University of Colima and a master’s degree in Life Sciences, specializing in Marine Biotechnology, from CICESE, before completing a PhD in Marine Science, Technology and Management at the University of Vigo. My research integrates oceanography, molecular biology, microbial ecology, and reproducible computational workflows.
 
-🔬 [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
-🎓 [Google Scholar](https://scholar.google.com/citations?hl=es&user=Q4wYPwwAAAAJ)
-
 <details>
 <summary><strong>📚 Publications</strong></summary>
 
