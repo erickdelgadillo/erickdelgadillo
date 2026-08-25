@@ -2,17 +2,14 @@
 
 **Oceanographer · Computational Biologist · Molecular Biologist**
 
-I study marine microbial communities and build reproducible computational 
-workflows connecting oceanography, molecular biology, and data-intensive 
-research.
-
-I hold a PhD in Marine Science, Technology and Management from the University 
-of Vigo. My research focuses on marine microbial ecology, metatranscriptomics, 
-nutrient responses, and phytoplankton–bacteria interactions.
-ecology, metatranscriptomics, and phytoplankton–bacteria interactions.
+I hold a PhD in Marine Science, Technology and Management from the 
+University of Vigo and study marine microbial communities through 
+reproducible computational workflows that integrate oceanography, 
+molecular biology, microbial ecology, and metatranscriptomics.
 
 [ResearchGate](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
-· [Publications](#selected-publications)
+· [Coastal upwelling systems as dynamic mosaics of bacterioplankton 
+functional specialization]([#selected-publications](https://doi.org/10.3389/fmars.2026.1886620))
 
 <details>
 <summary><strong>🔬 Current research interests</strong></summary>
