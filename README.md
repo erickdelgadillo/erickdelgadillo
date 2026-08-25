@@ -9,14 +9,14 @@ My academic journey began in Mexico in 2005 with technical training in aquacultu
 <details>
 <summary><strong>📚 Publications</strong></summary>
 
-### First-author publications
+#### First-author publications
 
 - **Delgadillo-Nuño E. et al. (2026).** Dealing with phosphorus deficiency: contrasting strategies in marine phytoplankton and bacteria. *ISME Communications*, **6**(1), ycag035. [DOI: 10.1093/ismeco/ycag035](https://doi.org/10.1093/ismeco/ycag035)
 
-- **Delgadillo-Nuño E. et al. (2023).** Coastal upwelling systems as dynamic mosaics of bacterioplankton functional specialization. *Frontiers in Marine Science*, **10**, 1259783. [DOI: 10.3389/fmars.2023.1259783](https://doi.org/10.3389/fmars.2023.1259783)
+- **Delgadillo-Nuño E. et al. (2023).** Coastal upwelling systems as dynamic mosaics of bacterioplankton functional specialization. *Frontiers in Marine Science*, **10**, 1259783. [DOI: 10.3389/fmars.2023.1259783](https://doi.org/10.3389/fmars.2023.1259783) · [Correction (2026)](https://doi.org/10.3389/fmars.2026.1886620)
 
 
-### Selected collaborative publications
+#### Selected collaborative publications
 
 - **Teira E. et al. (2025).** Contrasting diversity and temporal patterns in leaf and root microbiome of two nearby temperate *Zostera marina* meadows. *Environmental Microbiome*, **20**, 98. [DOI: 10.1186/s40793-025-00760-z](https://doi.org/10.1186/s40793-025-00760-z)
 
