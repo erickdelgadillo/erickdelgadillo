@@ -4,7 +4,11 @@
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Q4wYPwwAAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
 
-My academic journey began in Mexico in 2005 with technical training in aquaculture. I later earned a bachelor’s degree in Oceanology from the University of Colima and a master’s degree in Life Sciences, specializing in Marine Biotechnology, from CICESE, before completing a PhD in Marine Science, Technology and Management at the University of Vigo. My research integrates oceanography, molecular biology, microbial ecology, and reproducible computational workflows.
+I'm a marine molecular ecologist and computational biologist working at the intersection of microbial ecology, molecular biology, and bioinformatics.
+
+My research background focuses on marine microbial communities, particularly phytoplankton–bacteria interactions and their responses to environmental change. I combine this biological background with computational approaches for analysing high-throughput sequencing data.
+
+Here you will find projects related to metatranscriptomics, metabarcoding, microbial community analysis, and reproducible bioinformatics, alongside tools and workflows I develop while expanding my computational toolkit.
 
 <details>
 <summary><strong>🚀 Featured projects</strong></summary>
