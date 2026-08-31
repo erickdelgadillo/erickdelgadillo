@@ -65,7 +65,7 @@ Exploration of Python development and information retrieval through lexical and 
 
 
 <details>
-<summary><strong>📚 Publications</strong></summary>
+<summary><strong> Publications</strong></summary>
 
 #### First-author publications
 
@@ -94,7 +94,7 @@ Exploration of Python development and information retrieval through lexical and 
 </details>
 
 <details>
-<summary><strong>🧰 Technical toolkit</strong></summary>
+<summary><strong> Technical toolkit</strong></summary>
 
 #### Languages and workflows
 R · MATLAB · Bash · Python · Nextflow · nf-core
