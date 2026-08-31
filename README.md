@@ -1,4 +1,4 @@
-## I'm 🌊 Oceanographer · 🧬 Molecular Biologist · 💻 Computational Biologist
+## Marine Molecular Ecologist · Computational Biologist
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9434--0211-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9434-0211)
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Q4wYPwwAAAAJ)
