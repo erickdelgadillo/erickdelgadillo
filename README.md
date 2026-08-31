@@ -11,34 +11,34 @@ My research background focuses on marine microbial communities, particularly phy
 Here you will find projects related to metatranscriptomics, metabarcoding, microbial community analysis, and reproducible bioinformatics, alongside tools and workflows I develop while expanding my computational toolkit.
 
 <details>
-<summary><strong>🚀 Featured projects</strong></summary>
+<summary><strong> Featured projects</strong></summary>
 
-### 🔬 Reproducible research
+### Reproducible research
 
 #### coastal-upwelling-bacterioplankton
 Reproducible reconstruction of the computational analyses underlying a published study on bacterioplankton functional specialization across coastal upwelling conditions.
 
 `MATLAB` `R` `Microbial ecology` `Community analysis`
 
-📄 *Frontiers in Marine Science — first-author study*
+ *Frontiers in Marine Science — first-author study*
 
 #### marine-p-deficiency-metat
 Reproducible reconstruction and refactoring of the metatranscriptomic analyses underlying a published study on phytoplankton and bacterial responses to phosphorus deficiency.
 
 `R` `edgeR` `Metatranscriptomics` `Bioconductor`
 
-📄 *ISME Communications — first-author study*
+ *ISME Communications — first-author study*
 
 #### antibiotics-perturbations
 Reproducible analysis of antibiotic perturbation experiments investigating bacteria–phytoplankton interactions in natural marine microbial communities.
 
 `R` `Microbial ecology` `Statistics` `Scientific visualization`
 
-📝 *Manuscript in preparation*
+ *Manuscript in preparation*
 
 ---
 
-### 🔧 Research infrastructure
+### Research infrastructure
 
 #### Ocelotl
 Automated provisioning of my reproducible bioinformatics infrastructure from clean Ubuntu installations using modular Ansible roles.
@@ -47,7 +47,7 @@ Automated provisioning of my reproducible bioinformatics infrastructure from cle
 
 ---
 
-### 🧪 Learning projects
+### Learning projects
 
 #### nf-human-variants
 Modular human germline variant-calling workflow developed while expanding my experience with Nextflow DSL2 and modern NGS workflow development.
@@ -60,13 +60,6 @@ Exploration of Python development and information retrieval through lexical and 
 `Python` `Embeddings` `FAISS` `SQLite` `Semantic retrieval`
 
 ---
-
-### 🎮 Hobby
-
-#### science-valley
-Pixel-art game inspired by scientific research and laboratory life.
-
-`Godot` `GDScript` `Pixel art`
 
 </details>
 
