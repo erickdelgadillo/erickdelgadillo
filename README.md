@@ -15,32 +15,25 @@ Here you will find projects related to metatranscriptomics, metabarcoding, micro
 
 ### Reproducible research
 
-#### coastal-upwelling-bacterioplankton
+#### [coastal-upwelling-bacterioplankton](https://github.com/erickdelgadillo/coastal-upwelling-bacterioplankton)
 Reproducible reconstruction of the computational analyses underlying a published study on bacterioplankton functional specialization across coastal upwelling conditions.
 
 `MATLAB` `R` `Microbial ecology` `Community analysis`
 
  *Frontiers in Marine Science — first-author study*
 
-#### marine-p-deficiency-metat
+#### [marine-p-deficiency-metat](https://github.com/erickdelgadillo/marine-p-deficiency-metat)
 Reproducible reconstruction and refactoring of the metatranscriptomic analyses underlying a published study on phytoplankton and bacterial responses to phosphorus deficiency.
 
 `R` `edgeR` `Metatranscriptomics` `Bioconductor`
 
  *ISME Communications — first-author study*
 
-#### antibiotics-perturbations
-Reproducible analysis of antibiotic perturbation experiments investigating bacteria–phytoplankton interactions in natural marine microbial communities.
-
-`R` `Microbial ecology` `Statistics` `Scientific visualization`
-
- *Manuscript in preparation*
-
 ---
 
 ### Research infrastructure
 
-#### Ocelotl
+#### [Ocelotl](https://github.com/erickdelgadillo/ocelotl)
 Automated provisioning of my reproducible bioinformatics infrastructure from clean Ubuntu installations using modular Ansible roles.
 
 `Ansible` `Linux` `Docker` `Conda` `Nextflow`
@@ -49,12 +42,12 @@ Automated provisioning of my reproducible bioinformatics infrastructure from cle
 
 ### Learning projects
 
-#### nf-human-variants
+#### [nf-human-variants](https://github.com/erickdelgadillo/nf-human-variants)
 Modular human germline variant-calling workflow developed while expanding my experience with Nextflow DSL2 and modern NGS workflow development.
 
 `Nextflow` `Docker` `BWA-MEM2` `SAMtools` `GATK`
 
-#### Huitzilin
+#### [Huitzilin](https://github.com/erickdelgadillo/huitzilin)
 Exploration of Python development and information retrieval through lexical and semantic search over structured and vector-based data.
 
 `Python` `Embeddings` `FAISS` `SQLite` `Semantic retrieval`
