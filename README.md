@@ -11,49 +11,117 @@ My research background focuses on marine microbial communities, particularly phy
 
 Here you will find projects related to metatranscriptomics, metabarcoding, microbial community analysis, and reproducible bioinformatics, alongside tools and workflows I develop while expanding my computational toolkit.
 
+---
+
 <details>
 <summary><strong> Featured projects</strong></summary>
 
-### Reproducible research
 
-#### [coastal-upwelling-bacterioplankton](https://github.com/erickdelgadillo/coastal-upwelling-bacterioplankton)
-Reproducible reconstruction of the computational analyses underlying a published study on bacterioplankton functional specialization across coastal upwelling conditions.
+## 🧬 [metatrans-dge](https://github.com/erickdelgadillo/metatrans-dge)
 
-`MATLAB` `R` `Microbial ecology` `Community analysis`
+Reusable **Nextflow DSL2 workflow for differential gene expression analysis of metatranscriptomic count data**.
 
- *Frontiers in Marine Science — first-author study*
+The workflow implements:
 
-#### [marine-p-deficiency-metat](https://github.com/erickdelgadillo/marine-p-deficiency-metat)
-Reproducible reconstruction and refactoring of the metatranscriptomic analyses underlying a published study on phytoplankton and bacterial responses to phosphorus deficiency.
+- edgeR quasi-likelihood differential expression
+- configurable contrasts and significance thresholds
+- TMM normalization
+- volcano and MA plots
+- differential-expression summaries
+- top-feature visualization
+- global expression heatmaps
+- sample MDS and correlation analysis
+- synthetic test datasets
+- R-level testing
+- Docker-based reproducible environments
 
-`R` `edgeR` `Metatranscriptomics` `Bioconductor`
-
- *ISME Communications — first-author study*
-
----
-
-### Research infrastructure
-
-#### [Ocelotl](https://github.com/erickdelgadillo/ocelotl)
-Automated provisioning of my reproducible bioinformatics infrastructure from clean Ubuntu installations using modular Ansible roles.
-
-`Ansible` `Linux` `Docker` `Conda` `Nextflow`
+`Nextflow` `R` `edgeR` `Docker` `Metatranscriptomics` `Testing`
 
 ---
 
-### Learning projects
+## 🧬 [nf-human-variants](https://github.com/erickdelgadillo/nf-human-variants)
 
-#### [nf-human-variants](https://github.com/erickdelgadillo/nf-human-variants)
-Modular human germline variant-calling workflow developed while expanding my experience with Nextflow DSL2 and modern NGS workflow development.
+Modular **Nextflow DSL2 germline variant-calling workflow** developed to explore modern NGS workflow engineering and nf-core design principles.
 
-`Nextflow` `Docker` `BWA-MEM2` `SAMtools` `GATK`
+Current components include:
 
-#### [Huitzilin](https://github.com/erickdelgadillo/huitzilin)
-Exploration of Python development and information retrieval through lexical and semantic search over structured and vector-based data.
+- FastQC
+- fastp
+- BWA-MEM2
+- SAMtools
+- GATK reference preparation
+- modular DSL2 subworkflows
+- nf-core modules
+- metadata-aware channels
+- reproducible containerized execution
+- lightweight test profiles
 
-`Python` `Embeddings` `FAISS` `SQLite` `Semantic retrieval`
+Variant calling and annotation components are under active development.
+
+`Nextflow` `nf-core` `Docker` `BWA-MEM2` `SAMtools` `GATK`
 
 ---
+
+## 🐆 [Ocelotl](https://github.com/erickdelgadillo/ocelotl)
+
+Automated provisioning of a **reproducible bioinformatics workstation** using Ansible.
+
+Ocelotl can configure a clean Ubuntu system with scientific and development tooling while keeping infrastructure configuration version-controlled and repeatable.
+
+The project includes:
+
+- modular Ansible roles
+- Docker
+- Conda / Mamba
+- Nextflow
+- R
+- VS Code
+- shell configuration
+- idempotent provisioning
+- GitHub Actions CI
+- tagged releases
+
+`Ansible` `Linux` `Docker` `Nextflow` `GitHub Actions` `Infrastructure as Code`
+
+---
+
+## 🌊 Reproducible marine science
+
+### [dealing-with-p-metat](https://github.com/erickdelgadillo/dealing-with-p-metat)
+
+Reproducible downstream analysis for a published metatranscriptomic study investigating **phosphorus deficiency in marine phytoplankton and bacteria**.
+
+The repository contains curated analysis-ready datasets, provenance information, checksums, R workflows, and the code required to regenerate the published figures.
+
+`R` `Metatranscriptomics` `Microbial ecology` `Reproducible research`
+
+---
+
+### [coastal-upwelling-metat](https://github.com/erickdelgadillo/coastal-upwelling-metat)
+
+Metatranscriptomic and microbial-community analyses associated with research on **bacterioplankton functional specialization across coastal upwelling conditions**.
+
+`R` `Metatranscriptomics` `Microbial ecology`
+
+---
+
+### [coastal-upwelling-oceanography](https://github.com/erickdelgadillo/coastal-upwelling-oceanography)
+
+Reproducible MATLAB workflows for the physical and biogeochemical oceanography associated with the coastal-upwelling study.
+
+Includes:
+
+- CTD profiles
+- nutrient distributions
+- longitudinal transects
+- restored historical workflows
+- data provenance and checksums
+- animated coastal–offshore sections
+
+`MATLAB` `Oceanography` `Scientific visualization` `Reproducibility`
+
+---
+
 
 </details>
 
@@ -90,22 +158,26 @@ Exploration of Python development and information retrieval through lexical and 
 <details>
 <summary><strong> Technical toolkit</strong></summary>
 
-#### Languages and workflows
-R · MATLAB · Bash · Python · Nextflow · nf-core
+### Workflow engineering
 
-#### Infrastructure
+`Nextflow` · `nf-core` · `Git` · `GitHub Actions`
 
-Conda · Mamba · Docker · Apptainer · Ansible · GitHub Actions · Linux
+### Programming and analysis
 
-#### Bioinformatics
+`R` · `Python` · `MATLAB` · `Bash`
 
-FastQC · MultiQC · Bowtie2 · BWA · SAMtools · SPAdes · MEGAHIT ·
-Trinity · Kraken2 · MetaPhlAn · BLAST · HMMER
+### Reproducible computing
 
-#### Research methods
+`Docker` · `Apptainer` · `Conda` · `Mamba` · `Ansible` · `Linux`
 
-RNA-seq · Metatranscriptomics · Metagenomics · Amplicon sequencing ·
-Differential expression · Multivariate statistics · Scientific visualization
+### Bioinformatics
+
+`FastQC` · `MultiQC` · `fastp` · `BWA-MEM2` · `Bowtie2` · `SAMtools` · `GATK` · `SPAdes` · `MEGAHIT` · `Trinity` · `Kraken2` · `MetaPhlAn` · `BLAST` · `HMMER`
+
+### Data analysis
+
+`edgeR` · differential expression · multivariate statistics · scientific visualization · microbial community analysis
+
 
 </details>
 
