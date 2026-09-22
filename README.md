@@ -10,8 +10,7 @@ I'm a marine molecular ecologist and computational biologist working at the inte
 My research background focuses on marine microbial communities, particularly phytoplankton–bacteria interactions and their responses to environmental change. I combine this biological background with computational approaches for analysing high-throughput sequencing data.
 
 Here you will find projects related to metatranscriptomics, metabarcoding, microbial community analysis, and reproducible bioinformatics, alongside tools and workflows I develop while expanding my computational toolkit.
-
----
+##
 
 <details>
 <summary><strong> Featured projects</strong></summary>
