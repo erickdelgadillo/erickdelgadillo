@@ -5,6 +5,8 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Erick-Delgadillo-Nuno)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/delgadillo-erick/)
 
+Helooo!
+
 I'm a marine molecular ecologist and computational biologist working at the intersection of microbial ecology, molecular biology, and bioinformatics.
 
 My research background focuses on marine microbial communities, particularly phytoplankton–bacteria interactions and their responses to environmental change. I combine this biological background with computational approaches for analysing high-throughput sequencing data.
